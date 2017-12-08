@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobFinder", "BlobFinder\BlobFinder.csproj", "{05319F40-11F5-4D9E-9837-5306C5FE32C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disjoint Set", "..\Disjoint Set\Disjoint Set\Disjoint Set.csproj", "{392E7669-7A38-479C-B9A3-6F7661439510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05319F40-11F5-4D9E-9837-5306C5FE32C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05319F40-11F5-4D9E-9837-5306C5FE32C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05319F40-11F5-4D9E-9837-5306C5FE32C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392E7669-7A38-479C-B9A3-6F7661439510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392E7669-7A38-479C-B9A3-6F7661439510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392E7669-7A38-479C-B9A3-6F7661439510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392E7669-7A38-479C-B9A3-6F7661439510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
